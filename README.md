@@ -1,4 +1,4 @@
-# Integrate NativeForms Widget with WordPress website.
+# Integrate [NativeForms](https://nativeforms.com/) Widget with WordPress website.
 
   
 In this article we are going to setup **Feedback Widget** for websites created in WordPress.

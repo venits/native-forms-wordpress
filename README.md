@@ -29,9 +29,9 @@ The whole process is very easy and takes **around 5 min to setup**.
 
 ![script](https://raw.githubusercontent.com/venits/native-forms-wordpress/master/assets/script.jpg)
 
-7. Click "Save settings" button and reload your website.
+6. Click "Save settings" button and reload your website.
 
-8. **Thats' all.** Enjoy NativeForms Widget in your website 🎉
+7. **Thats' all.** Enjoy NativeForms Widget in your website 🎉
 
 
 ### [NativeForms.com](https://nativeforms.com/)

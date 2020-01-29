@@ -1,7 +1,8 @@
 # Integrate NativeForms Widget with WordPress website.
 
   
-In this article we are going to setup **Feedback Widget** for website created in WordPress, so your visitors can leave you  feedback about your website/product/service.
+In this article we are going to setup **Feedback Widget** for websites created in WordPress.
+It gives your visitors tool to leave you feedback, ask a question or request a feature.
 
 #### Our widget will look like this:
 ![Widget](https://raw.githubusercontent.com/venits/native-forms-wordpress/master/assets/widget.png)
@@ -32,6 +33,5 @@ The whole process is very easy and takes **around 5 min to setup**.
 
 8. **Thats' all.** Enjoy NativeForms Widget in your website 🎉
 
-### Get your NativeForms Widget and start getting more from your visitors.
 
 ### [NativeForms.com](https://nativeforms.com/)
